@@ -29,7 +29,7 @@ btnMasuk.addEventListener("click", () => {
 
 function insertAvatarUser() {
 	return `
-   <img src="../IMG/user (1).png" alt="" width="20px" height="20px">
+   <img src="user (1).png" alt="" width="20px" height="20px">
 							<p>${catchLocalStorage["username"]}</p>
    `;
 }
