@@ -1,6 +1,6 @@
 // Style Pop Up
 
-const icon = ["../IMG/checked.png", "../IMG/close.png", "../IMG/warning.png"];
+const icon = ["checked.png", "close.png", "warning.png"];
 const colour = ["rgb(7, 222, 0)", "rgb(238, 255, 0)", "rgb(255, 131, 131)"];
 const info = document.querySelector(".container .info");
 const gambar = document.querySelector(".container .info .gambar");
