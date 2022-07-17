@@ -245,6 +245,7 @@ nav .menu-toggle span {
 	}
 	nav .nav {
 		width: 90%;
+		justify-content: space-between;
 	}
 	nav .navWithBtn .navigasi {
 		display: none;
